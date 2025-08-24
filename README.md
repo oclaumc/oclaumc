@@ -1,6 +1,6 @@
 ### Hi there 👋, this is Clauberto!
 #### I am technologist and computer specialist, Developer.
-![I am technologist and computer specialist, Developer.](https://github.com/oclaumc/oclaumc/blob/main/Technology%20Banner.png)
+![I am technologist and computer specialist, Developer.]()
 
 Passionate about technology, self-taught, continuous learning, analytical thinking, creative, customer service, teamwork and administration of goods and services.
 
